@@ -1,0 +1,616 @@
+
+
+@media (min-width:1440px)   {
+    .container{
+        max-width: 1450px; 
+    }
+}
+
+@media (max-width:1600px)   {
+    .navigation {
+        max-width: 1210px;
+    }
+    .navbar-brand {
+        margin: 0 70px 0 0px;
+        max-width: 70px;
+    }
+    header {
+        padding: 20px 0;
+    }
+    .banner-sec {
+        padding: 150px 0px 40px;
+    }
+    .banner-inner .text-box h1 {
+        font-size: 96px;
+        line-height: 100px;
+        margin: 22px 0;
+    }
+    .banner-inner .media {
+        margin-top: 45px;
+    }
+    .carousel-btn {
+        padding: 20px 66px 0;
+    }
+    .new-book-sec {
+        padding: 150px 0;
+    }
+    .new-book-sec .text-box strong {
+        margin-bottom: 50px;
+    }
+    .new-book-sec .text-box h3 { 
+        line-height: 60px;
+        margin: 15px 0;
+    }
+    .award-author-sec {
+        padding: 150px 0 100px;
+    }
+    .comming-soon-sec {
+        padding: 120px 0;
+    }
+    .newsletter {
+        padding: 150px 100px 340px;
+    }
+    .testimonial {
+        padding: 150px 144px 0;
+    }
+    .comming-soon-sec .text-box h3 { 
+        margin: 20px 0;
+    }
+    .award-author-sec .title h3,
+    .comming-soon-sec .text-box h3,
+    .new-book-sec .text-box h3{
+        font-size: 50px;
+    }
+    .testimonial {
+        padding: 150px 65px 0;
+    }
+    .troy-bastian-sec {
+        padding: 150px 0;
+    }
+    .breadcrumb {
+        padding: 25px 20px;
+    }
+    .heading h3 {
+        margin: 15px 0;
+    }
+    .troy-bastian-inner {
+        padding: 110px 0 0 0;
+    }
+    .troy-bastian-inner .text-box h3 {
+        font-size: 46px;
+        line-height: 60px;
+        margin-bottom: 25px;
+    }
+    .troy-bastian-inner .text-box p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .troy-bastian-inner .text-box .book-now-btn {
+        margin-top: 40px;
+    }
+    .bootles-sec{ 
+        padding: 150px 0;
+    }
+    .slot-sec{
+        padding: 150px 0 330px; 
+    }
+    .banner-inner{
+        padding: 0 0 0 115px;
+    }
+}
+@media (max-width:1300px)   {}
+@media(max-width:1199px)    {
+    .navbar-nav .nav-item .nav-link {
+        font-size: 16px;
+    }
+    .header-right ul li a{
+        font-size: 16px;
+    }
+    .header-right ul li a.contact-btn {
+        width: 145px;
+        height: 50px;
+        margin-left: 20px;
+    }
+    .navbar-brand {
+        margin: 0 20px 0 0px;
+    }
+    .new-book-sec {
+        padding: 100px 0;
+    }
+    .new-book-sec .text-box p {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 15px;
+    }
+    .new-book-sec .text-box strong {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .award-author-sec {
+        padding: 100px 0;
+    }
+    .award-author-sec .text-box p { 
+        font-size: 14px;
+        margin-bottom: 15px;
+        line-height: 25px;
+    }
+    .comming-soon-sec {
+        padding: 100px 0;
+    }
+    .award-author-sec .title h3, .comming-soon-sec .text-box h3, .new-book-sec .text-box h3 {
+        font-size: 40px;
+    }
+    .comming-soon-sec .text-box p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .newslatter-testimonial {
+        display: flex;
+        margin-bottom: 30px;
+    }
+    .newsletter .text-box h3 {
+        font-size: 50px;
+        line-height: 60px;
+        margin: 15px 0;
+    }
+    .newsletter .text-box p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .newsletter {
+        padding: 100px 50px 340px;
+    }
+    .testimonial {
+        padding: 100px 50px 0;
+    }
+    .testimonial p {
+        font-size: 18px;
+        max-width: 330px;
+        line-height: 30px;
+    }
+    .testimonial h3 {
+        font-size: 20px;
+        margin-bottom: 75px;
+    }
+    .footer-inner {
+        padding: 15px 30px 30px;
+    }
+    .troy-bastian-sec {
+        padding: 120px 0;
+    }
+    .troy-bastian-inner .text-box h3 {
+        font-size: 38px;
+        line-height: 54px;
+        margin-bottom: 20px;
+    }
+    .troy-bastian-inner .text-box p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 15px;
+    }
+    .banner-inner {
+    padding: 0 0 0 95px;
+}
+}
+@media(max-width:991px)     {
+    .navbar-brand {
+        margin: 0 10px 0 0px;
+        max-width: 60px;
+    }
+    .navbar-nav .nav-item {
+        padding: 0 15px;
+    }
+    .header-right ul li a {
+        font-size: 14px;
+    }
+    .navbar-nav .nav-item .nav-link {
+        font-size: 14px;
+    }
+    .banner-sec {
+        padding: 130px 0px 40px;
+    }
+    .banner-inner .text-box h1 {
+        font-size: 75px;
+        line-height: 81px;
+        margin: 20px 0;
+    }
+    .banner-inner .text-box p {
+        font-size: 18px;
+    }
+    .banner-inner .media a {
+        width: 60px;
+        height: 60px;
+    }
+    .banner-inner .media a:before{
+        width: 110px;
+        height: 110px;
+    }
+    .banner-inner .media a:after{
+        width: 80px;
+        height: 80px;
+    }
+    .banner-inner .media {
+        margin-top: 30px;
+        padding: 0 0 15px 0;
+    }
+    .new-book-sec {
+        padding: 50px 0;
+    }
+    .award-author-sec .title h3, .comming-soon-sec .text-box h3, .new-book-sec .text-box h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .new-book-sec .text-box p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .new-book-sec .text-box strong {
+        margin-bottom: 30px;
+    }
+    .award-author-sec {
+        padding: 50px 0;
+    }
+    .award-author-sec .text-box p br{
+        display: none;
+    }
+    .media-box{
+        font-size: 14px;
+    }
+    .award-author-sec .text-box a {
+        margin-top: 30px;
+    }
+    .comming-soon-sec {
+        padding: 50px 0;
+    }
+    .newsletter {
+        padding: 100px 30px 340px;
+    }
+    .testimonial {
+        padding: 100px 30px 0;
+    }
+    .troy-bastian-inner {
+        padding: 50px 0 0 0;
+    }
+    .troy-bastian-sec {
+        padding: 100px 0;
+    }
+    .bootles-sec {
+        padding: 100px 0;
+    }
+    .slot-sec {
+        padding: 100px 0 280px;
+    }
+    .banner-inner {
+    padding: 0;
+}
+}
+@media(max-width:767px)     {
+    .container, .container-sm {
+        max-width: 100%;
+    }
+    header {
+        padding: 15px 0;
+    }
+    .navbar-brand {
+        margin: 0;
+        max-width: 50px;
+    }
+    .navbar-toggler{
+        padding: 0;
+        border: none;
+        border-radius: 0; 
+    }
+    .navbar-light .navbar-toggler-icon{
+        background: none;
+        background-color: #C7BBA4;
+        width: 24px;
+        height: 2px;
+        margin-bottom: 6px;
+        display: block;
+    }
+    .navbar-light .navbar-toggler-icon:last-child{
+        margin-bottom: 0;
+    }
+    .navbar-collapse {
+        background-color: #191C26;
+        padding: 10px 0px 20px;
+    }
+    .navbar-nav .nav-item {
+        padding: 0;
+    }
+    .navbar-nav .nav-item .nav-link {
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+    .header-right ul {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .header-right ul li{
+        width: 100%;
+    }
+    .header-right ul li a {
+        font-size: 16px;
+        width: 100%;
+        display: block;
+        padding: 5px 15px;
+    }
+    .header-right ul li a.contact-btn {
+        width: 160px;
+        height: 45px;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+    .banner-sec {
+        padding: 100px 0px 50px;
+        background-position: center center;
+    }
+    .media-box:after {
+        width: 40px;
+    }
+    .media-box {
+        padding-left: 50px;
+    }
+    .banner-inner .text-box h1 {
+        font-size: 56px;
+        line-height: 66px;
+        margin: 15px 0;
+    }
+    .banner-inner .text-box h1 br{
+        display: none;
+    }
+    .banner-inner .text-inner {
+        padding-left: 15px;
+    }
+    .banner-inner .text-inner p {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+    .banner-inner .text-inner span{
+        font-size: 14px;
+    }
+    .carousel-btn {
+        padding: 15px 20px 0;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        width: 70px;
+        font-size: 14px;
+        padding-bottom: 5px;
+    }
+    .new-book-sec .text-box {
+        padding: 0;
+    }
+    .new-book-sec .image-holder img{
+        width: 100%;
+    }
+    .award-author-sec .title {
+        margin-bottom: 30px;
+        margin-top: 0;
+    }
+    .award-author-sec .title h3 {
+        margin: 15px 0;
+    }
+    .award-author-sec .title p {
+        font-size: 16px;
+    }
+    .award-author-sec .image-holder{
+        padding-bottom: 30px;
+    }
+    .award-author-sec .image-holder img{
+        width: 100%;
+    }
+    .comming-soon-sec .text-box h3 {
+        margin: 15px 0;
+    }
+    .comming-soon-sec .image-holder{
+        padding-top: 30px;
+    }
+    .comming-soon-sec .image-holder img{
+        width: 100%;
+    }
+    .new-book-sec.unearthed-sec .text-box strong{
+        margin-bottom: 0;
+    }
+    .newslatter-testimonial {
+        flex-direction: column;
+        margin: 0;
+    }
+    .newsletter {
+        padding: 50px 13px;
+        width: 100%;
+    }
+    .newsletter .text-box {
+        max-width: 100%; 
+    }
+    .newsletter .text-box p {
+        margin-bottom: 15px;
+    }
+    .testimonial {
+        padding: 50px 15px;
+        width: 100%;
+    }
+    .testimonial h3 {
+        margin-bottom: 20px;
+    }
+    .testimonial p:after {
+        right: -25px;
+        bottom: -5px;
+        width: 65px;
+        height: 65px;
+        background-size: 100%;
+    }
+    footer{
+        position: static;
+        padding: 0;
+    }
+    .footer-logo {
+        padding-bottom: 20px;
+    }
+    .footer-text { 
+        margin-bottom: 30px;
+    }
+    .breadcrumb {
+        padding: 15px 0px;
+    }
+    .troy-bastian-sec {
+        padding: 80px 0px 50px;
+    }
+    .heading h3 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .heading p {
+        font-size: 18px;
+    }
+    .troy-bastian-inner {
+        padding: 30px 0 0 0;
+    }
+    .troy-bastian-inner .image-holder{
+        margin-bottom: 30px;
+    }
+    .troy-bastian-inner .image-holder img{
+        width: 100%;
+    }
+    .troy-bastian-inner .text-box h3 {
+        font-size: 28px;
+        line-height: 38px;
+        margin-bottom: 15px;
+    }
+    .troy-bastian-inner .text-box p {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .bootles-sec {
+        padding: 50px 0;
+    }
+    .bootles-sec .image-holder {
+        padding-right: 0;
+    }
+    .troy-bastian-inner .text-box h3 br{
+        display: none;
+    }
+    .slot-sec {
+        padding: 50px 0 0;
+    }
+}
+@media(max-width:575px)     {
+    .wrapper{
+        overflow: hidden;
+    }
+    .banner-inner .media a {
+        width: 40px;
+        height: 40px;
+    }
+    .banner-inner .media a:after {
+        width: 50px;
+        height: 50px;
+    }
+    .banner-inner .media a:before {
+        width: 70px;
+        height: 70px
+    }
+    .banner-inner .media a img{
+        height: 15px;
+    }
+    .banner-inner .text-inner p {
+        padding-bottom: 5px;
+    }
+    .banner-inner .text-inner p:after{
+        background-color: #C7BBA4;
+    }
+    .banner-inner .text-box p {
+        font-size: 16px;
+    }
+    .carousel-btn {
+        padding: 30px 20px 0;
+    }
+    .newsletter .text-box form a {
+        width: 40px;
+        height: 40px;
+    }
+    .newsletter .text-box form a:after{
+        width: 50px;
+        height: 50px;
+    }
+    .newsletter .text-box form a:before{
+        width: 70px;
+        height: 70px;
+    }
+    .award-author-sec .title h3, .comming-soon-sec .text-box h3, .new-book-sec .text-box h3 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .newsletter .text-box h3 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .newsletter .text-box h3 br{
+        display: none;
+    }
+    .newsletter .text-box form .form-control{
+        margin-right: 20px;
+    }
+    .breadcrumb-item{
+        font-size: 12px;
+        padding: 0 15px;
+    }
+    .breadcrumb-item a{ 
+        font-size: 12px;
+    }
+    .breadcrumb-item+.breadcrumb-item {
+        padding-left: 15px;
+    }
+    .breadcrumb-item:before {
+        left: -8px;
+        width: 15px;
+    }
+    .breadcrumb {
+        padding: 10px 0px 20px;
+    }
+    .heading h3 {
+        font-size: 38px;
+        line-height: 44px;
+    }
+    .heading p {
+        font-size: 14px;
+    }
+    .troy-bastian-inner .text-box h3 {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 15px;
+    }
+    .troy-bastian-inner .text-box p {
+        font-size: 12px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    .troy-bastian-inner .text-box .book-now-btn {
+        margin-top: 20px;
+    }
+    .book-now-btn {
+        font-size: 14px;
+        max-width: 110px;
+        padding-bottom: 10px; 
+    }
+}
+@media(max-width:374px)     {
+    .banner-inner .text-box h1 {
+        font-size: 42px;
+        line-height: 52px; 
+    }
+    .comming-soon-sec .text-box p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .testimonial p {
+        font-size: 14px;
+        max-width: 330px;
+        line-height: 24px;
+    }
+    .testimonial p:after {
+        right: -5px;
+        bottom: -25px;
+    }
+}
